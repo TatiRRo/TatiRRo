@@ -20,7 +20,7 @@ I'm currently learning JavaScript, TypeScript, and React, and working on persona
 | [`web-larek-frontend`](https://github.com/TatiRRo/web-larek-frontend) | TypeScript, HTML | Frontend for a small e-commerce shop |
 | [`mesto-project`](https://github.com/TatiRRo/mesto-project-ff) | JavaScript, HTML | Interactive photo-sharing project |
 | [`posmotri_v_okno`](https://github.com/TatiRRo/posmotri_v_okno) | JavaScript | DOM manipulation & event practice |
-| ...and more – check out my pinned repositories above ↑
+| and more – check out my pinned repositories
 
 ---
 
