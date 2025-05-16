@@ -14,7 +14,7 @@ I'm currently learning JavaScript, TypeScript, and React, and working on persona
 ---
 
 ### 📌 Highlighted Projects:
-| Project | Description | Tech |
+| Project | Tech | Description |
 |--------|-------------|------|
 | [`blog-customizer`](https://github.com/TatiRRo/blog-customizer) | React, TypeScript| Sidebar to adjust article styles via CSS variables with delayed apply
 | [`web-larek-frontend`](https://github.com/TatiRRo/web-larek-frontend) | TypeScript, HTML | Frontend for a small e-commerce shop |
